@@ -18,12 +18,12 @@ function Navbar() {
 
                 <div id="navbarBasicExample" className="navbar-menu">
                     <div className="navbar-start">
-                        <a className="navbar-item" href="index.html">
+                        <a className="navbar-item" href="/main">
                             Home
                         </a>
 
-                        <a className="navbar-item">
-                            Products
+                        <a className="navbar-item" href="/toDoList">
+                            To-Do List
                         </a>
 
                         <div className="navbar-item has-dropdown is-hoverable">
@@ -48,10 +48,10 @@ function Navbar() {
                     <div className="navbar-end">
                         <div className="navbar-item">
                             <div className="buttons">
-                                <a className="button is-primary" href="signup.html">
+                                <a className="button is-primary" href="/signup">
                                     <strong>Sign up</strong>
                                 </a>
-                                <a className="button is-light" href="login.html">
+                                <a className="button is-light" href="/login">
                                     Log in
                                 </a>
                             </div>

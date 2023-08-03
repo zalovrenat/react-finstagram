@@ -2,7 +2,7 @@ import React from 'react'
 
 function Signup() {
     return (
-        <div className="columns">
+        <div className="columns mt-1">
             <div className="column is-one-quarter ml-3">
                 <div className="field">
                     <div className="control">

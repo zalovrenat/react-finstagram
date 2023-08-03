@@ -3,8 +3,8 @@ import React from 'react'
 function Footer() {
   return (
     <div>
-        <footer class="footer">
-            <div class="content has-text-centered">
+        <footer className="footer">
+            <div className="content has-text-centered">
                 <p>
                     <strong>Chronologic</strong> by Renat Zalov. Copyright 2023©.
                 </p>
